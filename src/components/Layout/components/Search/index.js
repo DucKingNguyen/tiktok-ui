@@ -1,4 +1,4 @@
-/* eslint-disable react/react-in-jsx-scope */
+import React, { Component } from 'react';
 import { faCircleXmark, faSpinner } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useEffect, useState, useRef } from 'react';
